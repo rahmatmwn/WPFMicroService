@@ -1,0 +1,10 @@
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\bin\Debug\WPF.DataAccess.exe.config
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\bin\Debug\WPF.DataAccess.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\bin\Debug\WPF.DataAccess.pdb
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\obj\Debug\WPF.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\obj\Debug\WPF.DataAccess.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.DataAccess\obj\Debug\WPF.DataAccess.pdb

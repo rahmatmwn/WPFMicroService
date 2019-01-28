@@ -1,0 +1,12 @@
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\WPF.Common.exe.config
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\WPF.Common.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\WPF.Common.pdb
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\EntityFramework.dll
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\WPF.DataAccess.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\WPF.DataAccess.pdb
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\EntityFramework.xml
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\obj\Debug\WPF.Common.csprojResolveAssemblyReference.cache
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\obj\Debug\WPF.Common.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.Common\obj\Debug\WPF.Common.pdb

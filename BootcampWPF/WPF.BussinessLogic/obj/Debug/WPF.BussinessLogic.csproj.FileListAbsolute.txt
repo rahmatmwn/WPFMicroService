@@ -1,0 +1,14 @@
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\WPF.BussinessLogic.exe.config
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\WPF.BussinessLogic.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\WPF.BussinessLogic.pdb
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\WPF.Common.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\WPF.DataAccess.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\WPF.Common.pdb
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\WPF.DataAccess.pdb
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\obj\Debug\WPF.BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\obj\Debug\WPF.BussinessLogic.exe
+C:\Users\RahmatMwn\Documents\Visual Studio 2015\Projects\BootcampWPF\WPF.BussinessLogic\obj\Debug\WPF.BussinessLogic.pdb
